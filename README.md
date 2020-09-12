@@ -9,7 +9,7 @@ Now when you view the source codes, you will find the webpage meets accessibilit
 
 ## Getting Started
 
-You can retrieve a copy of the project via the link provided under **Deployed Link**.
+A copy of the project is available via the link provided under **Deployed Link**.
 
 Visual Source Code is required to view the source codes.
 
@@ -17,10 +17,10 @@ Please see "Prerequisites" below.
 
 ### Prerequisites
 
+You will need to download Visual Studio Code. See below for website and download instructions.
 
-**[Git Bash]**(https://git-scm.com/) - **How to install Git Bash:**(https://www.educative.io/edpresso/how-to-install-git-bash-in-windows)
-
-**[Visual Studio Code]** *(https://code.visualstudio.com/)* - **[How to install VS Code]**(https://code.visualstudio.com/docs/setup/setup-overview)
+[Visual Studio Code](https://code.visualstudio.com/)
+[How to install VS Code]**(https://code.visualstudio.com/docs/setup/setup-overview)
 
 
 ## Built With
@@ -30,7 +30,7 @@ Please see "Prerequisites" below.
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](file:///C:/Users/clee083/Desktop/Homework/code_refactor/index.html)
 
 
 ## Authors
@@ -43,6 +43,6 @@ Please see "Prerequisites" below.
 
 ## Acknowledgments
 
-* Google-Fu
-* w3schools
-* Stack Overflow
+* [Google-Fu](https://www.google.com)
+* [w3schools](https://www.w3schools.com/)
+* [Stack Overflow](https://stackoverflow.com/search?q=over)
