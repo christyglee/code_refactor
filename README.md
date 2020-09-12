@@ -19,8 +19,8 @@ Please see **"Prerequisites"** below.
 
 You will need to download Visual Studio Code. See below for website and download instructions.
 
-[Visual Studio Code](https://code.visualstudio.com/)
-[How to install VS Code](https://code.visualstudio.com/docs/setup/setup-overview)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [How to install VS Code](https://code.visualstudio.com/docs/setup/setup-overview)
 
 
 ## Built With
