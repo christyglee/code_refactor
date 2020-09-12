@@ -13,14 +13,14 @@ A copy of the project is available via the link provided under **Deployed Link**
 
 Visual Source Code is required to view the source codes.
 
-Please see "Prerequisites" below.
+Please see **"Prerequisites"** below.
 
 ### Prerequisites
 
 You will need to download Visual Studio Code. See below for website and download instructions.
 
 [Visual Studio Code](https://code.visualstudio.com/)
-[How to install VS Code]**(https://code.visualstudio.com/docs/setup/setup-overview)
+[How to install VS Code](https://code.visualstudio.com/docs/setup/setup-overview)
 
 
 ## Built With
