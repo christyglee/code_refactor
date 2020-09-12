@@ -51,15 +51,18 @@ body {
     color: #ffffff;
 }
 
-
-
-.online-reputation-management img {
+.float-left {
+    float: left;
+    margin-right: 25px;
     max-height: 200px;
 }
 
-.social-media-marketing img {
+.float-right {
+    float: right;
+    margin-left: 25px;
     max-height: 200px;
 }
+
 
 .h2 {
     margin-bottom: 20px;
@@ -101,16 +104,6 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-    max-height: 200px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 .content {
     width: 75%;
