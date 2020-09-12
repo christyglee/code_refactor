@@ -24,34 +24,6 @@ body {
     color: #d9dcd6;
 }
 
-.SOS {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-    max-height: 200px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-    max-height: 200px;
-}
-
-
-.h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -69,15 +41,6 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -87,11 +50,45 @@ p {
     background-position: center;
 }
 
-
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+.SOS {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+    max-height: 200px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+    max-height: 200px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
 }
 
 .benefits {
@@ -129,6 +126,3 @@ p {
     text-align: center;
 }
 
-.footer h2 {
-    font-size: 20px;
-}
