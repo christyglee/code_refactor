@@ -9,7 +9,7 @@ Now when you view the source codes, you will find the webpage meets accessibilit
 
 ## Getting Started
 
-You can retrieve a copy of the project via the link provided under ""Deployed Link**.
+You can retrieve a copy of the project via the link provided under **Deployed Link**.
 
 Visual Source Code is required to view the source codes.
 
@@ -17,14 +17,10 @@ Please see "Prerequisites" below.
 
 ### Prerequisites
 
-```
 
-**Git Bash:** *(https://git-scm.com/)* - **How to install Git Bash:** *(https://www.educative.io/edpresso/how-to-install-git-bash-in-windows)*
+**[Git Bash]**(https://git-scm.com/) - **How to install Git Bash:**(https://www.educative.io/edpresso/how-to-install-git-bash-in-windows)
 
-```
-**Visual Studio Code:** *(https://code.visualstudio.com/)* - **How to install VS Code:** *(https://code.visualstudio.com/docs/setup/setup-overview)* 
-
-
+**[Visual Studio Code]** *(https://code.visualstudio.com/)* - **[How to install VS Code]**(https://code.visualstudio.com/docs/setup/setup-overview)
 
 
 ## Built With
@@ -41,8 +37,8 @@ Please see "Prerequisites" below.
 
 * **Christy Lee** 
 
-- [Github:](https://github.com/christyglee)
-- [LinkedIn:](https://www.linkedin.com/in/christy-lee-95943748/)
+- [Github](https://github.com/christyglee)
+- [LinkedIn](https://www.linkedin.com/in/christy-lee-95943748/)
 
 
 ## Acknowledgments
